@@ -1,0 +1,5 @@
+{
+  "name": "Viet Anh - AI Character Creator",
+  "description": "A minimalist, dark-themed application to generate high-quality character images using Gemini Nano Banana and Pro Image models.",
+  "requestFramePermissions": []
+}
